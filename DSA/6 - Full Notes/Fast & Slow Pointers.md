@@ -33,5 +33,12 @@ Tags:
 	- Move fast pointer by 2 nodes
 - If the fast pointer ever becomes null, it means the list isn't cyclical
 - If slow meets fast, there is a cycle or special condition we're looking for
+
+##### Special Algorithms
+**Floyd's Tortoise and Hare Algorithm:**
+- When our pointers meet, we're in a cycle
+- Reset the slow pointer to the head of the list
+- Move both pointers one at a time now
+- When we next meet, we're at the start of the cycle
 # References
 https://www.designgurus.io/course-play/grokking-the-coding-interview/doc/introduction-to-fast-slow-pointers-pattern
