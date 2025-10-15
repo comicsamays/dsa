@@ -6,7 +6,7 @@ Tags:
 #GrokkingTheCodingInterview
 
 # Grokking the Coding Interview
-Currently on Two Pointers
+Currently on Sliding WIndow
 
 
 

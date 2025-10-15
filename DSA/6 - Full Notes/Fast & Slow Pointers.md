@@ -41,4 +41,5 @@ Tags:
 - Move both pointers one at a time now
 - When we next meet, we're at the start of the cycle
 # References
+[[Grokking the Coding Interview]]
 https://www.designgurus.io/course-play/grokking-the-coding-interview/doc/introduction-to-fast-slow-pointers-pattern

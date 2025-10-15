@@ -15,4 +15,5 @@ Tags:
 
 
 # References
+[[Grokking the Coding Interview]]
 https://www.designgurus.io/course-play/grokking-the-coding-interview/doc/introduction-to-two-pointers-pattern
