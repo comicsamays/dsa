@@ -10,7 +10,7 @@ Tags: #GrokkingTheCodingInterview
 Say we want to perform calculations on 5 elements at a time in an array, instead of accessing 5 elements each iteration, we remove the first element of our interval and add the next element to the overall value.
 
 **Where do we use it?**
-When we're asked to find or calculate something from a list of sublists / an array of subarrays of fixed size
+When we're asked to find or calculate something from a list of sublists / an array of subarrays of fixed size, particularly when we can contextually only perform one pass of the array
 
 **Why do we use it?**
 In a normal brute-force approach, for a window of 5 elements, as we iterate over the array, we are evaluating the whole window repeatedly which is inefficient. Sliding window reduces the amount of necessary calculations
