@@ -9,7 +9,7 @@ Tags: #GrokkingTheCodingInterview
 - There are 6 ways two intervals can relate to each other
 ![[Pasted image 20251016133125.png]]
 
-
+We use this whenever we work with interval based questions
 
 
 
