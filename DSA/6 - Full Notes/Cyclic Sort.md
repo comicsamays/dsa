@@ -12,6 +12,7 @@ A pattern where we sort an array of numbers in a given range by placing the numb
 **Where do we use it?**
 - When we have an array of numbers in a given range
 - When we have duplicates / missing numbers to identify
+- When we have to sort an array in place
 
 **Why do we use it?**
 - It's more efficient for this specific niche of number sorting
